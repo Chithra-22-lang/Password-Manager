@@ -3,6 +3,7 @@
 A simple and secure Password Manager Application built using Python, Tkinter GUI, and Cryptography (Fernet Encryption).
 This project allows users to securely store and retrieve passwords for multiple online accounts.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Project Overview
 
 This Password Manager application provides a graphical interface to:
