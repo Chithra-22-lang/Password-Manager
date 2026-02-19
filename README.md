@@ -1,4 +1,4 @@
-#🔐 Password Manager 
+##🔐 Password Manager 
 
 A secure desktop-based Password Manager built using Python and Tkinter, implementing Fernet symmetric encryption from the cryptography library to protect user credentials.
 
